@@ -19,4 +19,4 @@ def asteroidCollision(asteroids):
                 res.append(char)
     return res
 
-print(asteroidCollision([-1,2,-1,2]))
+print(asteroidCollision([-1,2,-1,2,-3,4]))
